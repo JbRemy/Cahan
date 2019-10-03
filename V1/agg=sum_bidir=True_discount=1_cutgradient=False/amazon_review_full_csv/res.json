@@ -1,0 +1,16 @@
+{
+    "lr": [
+        0.04181,
+        0.2508455812931061
+    ],
+    "run0": {
+        "val_categorical_accuracy": 63.993076922196614,
+        "best ep nb": 48
+    },
+    "final": 61.08884615327304,
+    "final_std": 2.904230768923579,
+    "run1": {
+        "val_categorical_accuracy": 58.184615384349456,
+        "best ep nb": 1
+    }
+}
