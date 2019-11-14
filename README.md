@@ -58,7 +58,8 @@ If you use this code or build up on the idea proposed in the paper, please cite 
 If you liked this work you can follow the authors:
 
 * Jean-Baptiste Remy [<img src="https://github.com/JbRemy/Cahan/blob/master/figures/logos/GitHub-Mark-64px.png" height=24 />](https://github.com/JbRemy) [<img src="https://github.com/JbRemy/Cahan/blob/master/figures/logos/Google_Scholar_logo_2015.png" height=24 />](https://scholar.google.com/citations?user=kZNC1yAAAAAJ&hl=fr)
-* Antoine Jean-Pierre Tixier [<img src="https://github.com/JbRemy/Cahan/blob/master/figures/logos/GitHub-Mark-64px.png" height=24 />](https://github.com/Tixierae) [<img src="https://github.com/JbRemy/Cahan/blob/master/figures/logos/Google_Scholar_logo_2015.png" height=24 />](https://scholar.google.fr/citations?user=mGLmAh0AAAAJ&hl=fr)
+* [Antoine Jean-Pierre Tixier](http://www.lix.polytechnique.fr/Labo/Antoine.Tixier/) [<img src="https://github.com/JbRemy/Cahan/blob/master/figures/logos/GitHub-Mark-64px.png" height=24 />](https://github.com/Tixierae) [<img src="https://github.com/JbRemy/Cahan/blob/master/figures/logos/Google_Scholar_logo_2015.png" height=24 />](https://scholar.google.fr/citations?user=mGLmAh0AAAAJ&hl=fr)
+* [Michalis Vazirgiannis](http://www.lix.polytechnique.fr/Labo/Michalis.Vazirgiannis/) [<img src="https://github.com/JbRemy/Cahan/blob/master/figures/logos/Google_Scholar_logo_2015.png" height=24 />](https://scholar.google.gr/citations?user=aWGJYcMAAAAJ&hl=en)
 
 
 
