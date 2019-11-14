@@ -57,7 +57,7 @@ If you use this code or build up on the idea proposed in the paper, please cite 
 
 If you liked this work you can follow the authors:
 
-* Jean-Baptiste Remy [![github](https://github.com/JbRemy/Cahan/blob/master/figures/logos/GitHub-Mark-64px.png)](https://github.com/JbRemy) [![scholar](https://github.com/JbRemy/Cahan/blob/master/figures/logos/Google_Scholar_logo_2015.png)](https://scholar.google.com/citations?user=kZNC1yAAAAAJ&hl=fr)
+* Jean-Baptiste Remy <img src="https://github.com/JbRemy/Cahan/blob/master/figures/logos/GitHub-Mark-64px.png" href="https://github.com/JbRemy" height=24 /> [![scholar](https://github.com/JbRemy/Cahan/blob/master/figures/logos/Google_Scholar_logo_2015.png)](https://scholar.google.com/citations?user=kZNC1yAAAAAJ&hl=fr)
 * Antoine Jean-Pierre Tixier [![github](https://github.com/JbRemy/Cahan/blob/master/figures/logos/GitHub-Mark-64px.png)](https://github.com/Tixierae) [![scholar](https://github.com/JbRemy/Cahan/blob/master/figures/logos/Google_Scholar_logo_2015.png)](https://scholar.google.fr/citations?user=mGLmAh0AAAAJ&hl=fr)
 
 
