@@ -2,7 +2,9 @@
 
 Code for the paper [Bidirectional Context-Aware Hierarchical Attention Network for Document Understanding](https://arxiv.org/abs/1908.06006)
 
-<div style="text-align: center"><img src="https://github.com/JbRemy/Cahan/blob/master/figures/CAHAN.png" width="500"></div>
+<div style="text-align: center">
+	<img src="https://github.com/JbRemy/Cahan/blob/master/figures/CAHAN.png" width="500"> 
+</div>
 
 ## Abstract
 
