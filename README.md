@@ -19,8 +19,8 @@ The Hierarchical Attention Network (HAN) has made great strides, but it suffers 
 </p>
 
 <p align="center">
-	<img src="https://github.com/JbRemy/Cahan/blob/master/figures/amazon_baseline_cropped.png" width="400"/>
-	<img src="https://github.com/JbRemy/Cahan/blob/master/figures/amazon_mean_bidir_cropped.png" width="400">
+	<img src="https://github.com/JbRemy/Cahan/blob/master/figures/amazon_baseline_cropped.png" />
+	<img src="https://github.com/JbRemy/Cahan/blob/master/figures/amazon_mean_bidir_cropped.png" />
 </p>
 <p align="center"> 
 	HAN (left) vs CAHAN (right) on a motivational example.
@@ -44,14 +44,14 @@ Requirements are contained in the `requirements.txt` file.
 
 If you use this code or build up on the idea proposed in the paper, please cite it as:
 
-`
+````
 @article{remy2019bidirectional,
   title={Bidirectional Context-Aware Hierarchical Attention Network for Document Understanding},
   author={Remy, Jean-Baptiste and Tixier, Antoine Jean-Pierre and Vazirgiannis, Michalis},
   journal={arXiv preprint arXiv:1908.06006},
   year={2019}
 }
-`
+````
 
 ## Authors:
 
