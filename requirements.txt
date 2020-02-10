@@ -8,4 +8,4 @@ tensorflow_gpu==1.15.2
 Keras==2.2.0
 gensim==3.7.2
 scikit_learn==0.21.3
-tensorflow==2.0.0
+tensorflow==2.0.1
